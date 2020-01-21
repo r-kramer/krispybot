@@ -1,0 +1,2 @@
+# krispybot
+Discord Bot
